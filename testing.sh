@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "This can plus 2 numbers together"
-NUMBER=$((6 + 4))
+NUMBER=$((99 + 4))
 echo "$NUMBER"
 echo "Casper er ret nice ;)"
